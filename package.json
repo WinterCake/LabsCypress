@@ -1,0 +1,22 @@
+{
+  "name": "labscypress",
+  "version": "1.0.0",
+  "description": "Projet Git pour le suivis du cours : https://www.udemy.com/course/cypress-tutorial/learn/lecture/26426106#overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WinterCake/LabsCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WinterCake/LabsCypress/issues"
+  },
+  "homepage": "https://github.com/WinterCake/LabsCypress#readme",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
