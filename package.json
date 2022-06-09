@@ -1,6 +1,4 @@
 {
-<<<<<<< HEAD
-=======
   "name": "labscypress",
   "version": "1.0.0",
   "description": "Projet Git pour le suivis du cours : https://www.udemy.com/course/cypress-tutorial/learn/lecture/26426106#overview",
@@ -18,7 +16,6 @@
     "url": "https://github.com/WinterCake/LabsCypress/issues"
   },
   "homepage": "https://github.com/WinterCake/LabsCypress#readme",
->>>>>>> f81a80adf36723b53a7327dcccd31a76cd65600b
   "devDependencies": {
     "cypress": "^9.6.0"
   }
