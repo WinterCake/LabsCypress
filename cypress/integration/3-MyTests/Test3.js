@@ -33,5 +33,9 @@ describe('My Second Test', () => {
         cy.get('#displayed-text').should('be.visible')
         cy.get('#hide-textbox').click()
         cy.get('#displayed-text').should('not.be.visible')
+
+        // Radio button
+        cy.get('[value="radio2"]').check().should('be.checked')
+
     });
 });
